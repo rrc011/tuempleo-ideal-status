@@ -2,7 +2,7 @@
   {
     "name": "Tu Empleo Ideal",
     "url": "http://www.vacantestei.com/home",
-    "icon": "https://favicons.githubusercontent.com/www.vacantestei.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.vacantestei.com.ico",
     "slug": "tu-empleo-ideal",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 341,
-    "timeDay": 179,
-    "timeWeek": 274,
-    "timeMonth": 409,
-    "timeYear": 341,
+    "time": 337,
+    "timeDay": 164,
+    "timeWeek": 266,
+    "timeMonth": 404,
+    "timeYear": 337,
     "dailyMinutesDown": {}
   }
 ]
