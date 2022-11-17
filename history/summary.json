@@ -4,19 +4,19 @@
     "url": "http://www.vacantestei.com/home",
     "icon": "https://icons.duckduckgo.com/ip3/www.vacantestei.com.ico",
     "slug": "tu-empleo-ideal",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "97.37%",
-    "uptimeWeek": "99.62%",
+    "uptimeDay": "97.23%",
+    "uptimeWeek": "99.60%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.96%",
     "time": 816,
-    "timeDay": 3252,
-    "timeWeek": 3713,
-    "timeMonth": 1679,
+    "timeDay": 3209,
+    "timeWeek": 3705,
+    "timeMonth": 1678,
     "timeYear": 816,
     "dailyMinutesDown": {
-      "2022-11-17": 38,
+      "2022-11-17": 40,
       "2022-11-08": 17
     }
   }
