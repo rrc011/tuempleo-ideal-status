@@ -6,17 +6,17 @@
     "slug": "tu-empleo-ideal",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "97.23%",
-    "uptimeWeek": "99.60%",
+    "uptimeDay": "97.38%",
+    "uptimeWeek": "99.63%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.96%",
-    "time": 816,
-    "timeDay": 3209,
-    "timeWeek": 3705,
-    "timeMonth": 1678,
-    "timeYear": 816,
+    "time": 823,
+    "timeDay": 2394,
+    "timeWeek": 3631,
+    "timeMonth": 1700,
+    "timeYear": 823,
     "dailyMinutesDown": {
-      "2022-11-17": 40,
+      "2022-11-17": 38,
       "2022-11-08": 17
     }
   }
