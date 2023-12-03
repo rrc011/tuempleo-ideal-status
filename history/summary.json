@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.vacantestei.com.ico",
     "slug": "tu-empleo-ideal",
     "status": "down",
-    "uptime": "85.41%",
+    "uptime": "85.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "81.16%",
-    "time": 710,
-    "timeDay": 363,
-    "timeWeek": 382,
-    "timeMonth": 391,
-    "timeYear": 699,
+    "uptimeYear": "81.08%",
+    "time": 706,
+    "timeDay": 389,
+    "timeWeek": 381,
+    "timeMonth": 390,
+    "timeYear": 695,
     "dailyMinutesDown": {
-      "2023-12-02": 1,
+      "2023-12-03": 1,
+      "2023-12-02": 1440,
       "2023-12-01": 1440,
       "2023-11-30": 1440,
       "2023-11-29": 1440,
@@ -99,8 +100,7 @@
       "2022-12-20": 71,
       "2022-12-15": 28,
       "2022-12-11": 134,
-      "2022-12-10": 292,
-      "2022-12-03": 266
+      "2022-12-10": 292
     }
   }
 ]
