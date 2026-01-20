@@ -4,8 +4,15 @@ repo: tuempleo-ideal-status # The name of this repository
 
 sites:
   - name: Tu Empleo Ideal
-    url: http://www.vacantestei.com/home
-    
+    url: https://tuempleoideal.com.do
+  - name: Legal Suite Landing
+    url: https://legalsuite.com.do
+  - name: Legal Suite App
+    url: https://app.legalsuite.com.do
+  - name: Factura Suite Landing
+    url: https://facturasuite.com.do
+  - name: Factura Suite App
+    url: https://app.facturasuite.com.do
 assignees:
   - rrc011
 
