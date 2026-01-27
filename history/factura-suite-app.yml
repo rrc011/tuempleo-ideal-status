@@ -1,7 +1,7 @@
 url: https://app.facturasuite.com.do
-status: up
-code: 200
-responseTime: 315
-lastUpdated: 2026-01-27T23:24:31.606Z
+status: down
+code: 502
+responseTime: 680
+lastUpdated: 2026-01-27T23:37:56.009Z
 startTime: 2026-01-20T02:39:21.188Z
 generator: Upptime <https://github.com/upptime/upptime>
