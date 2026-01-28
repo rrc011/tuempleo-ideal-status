@@ -8,10 +8,10 @@
     "uptime": "32.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "23.95%",
-    "uptimeYear": "2.15%",
+    "uptimeMonth": "24.00%",
+    "uptimeYear": "2.16%",
     "time": 172,
-    "timeDay": 472,
+    "timeDay": 477,
     "timeWeek": 530,
     "timeMonth": 264,
     "timeYear": 172,
@@ -372,8 +372,7 @@
       "2025-02-01": 1440,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
-      "2025-01-29": 1440,
-      "2025-01-28": 1440
+      "2025-01-29": 1440
     }
   },
   {
@@ -387,11 +386,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
-    "time": 469,
-    "timeDay": 454,
+    "time": 470,
+    "timeDay": 460,
     "timeWeek": 469,
-    "timeMonth": 469,
-    "timeYear": 469,
+    "timeMonth": 470,
+    "timeYear": 470,
     "dailyMinutesDown": {
       "2026-01-20": 14
     }
@@ -408,7 +407,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 438,
-    "timeDay": 392,
+    "timeDay": 391,
     "timeWeek": 442,
     "timeMonth": 438,
     "timeYear": 438,
@@ -425,11 +424,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 472,
-    "timeDay": 449,
+    "time": 473,
+    "timeDay": 453,
     "timeWeek": 470,
-    "timeMonth": 472,
-    "timeYear": 472,
+    "timeMonth": 473,
+    "timeYear": 473,
     "dailyMinutesDown": {}
   },
   {
@@ -437,19 +436,17 @@
     "url": "https://app.facturasuite.com.do",
     "icon": "https://icons.duckduckgo.com/ip3/app.facturasuite.com.do.ico",
     "slug": "factura-suite-app",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 580,
-    "timeDay": 530,
-    "timeWeek": 586,
-    "timeMonth": 580,
-    "timeYear": 580,
-    "dailyMinutesDown": {
-      "2026-01-27": 3
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 581,
+    "timeDay": 543,
+    "timeWeek": 587,
+    "timeMonth": 581,
+    "timeYear": 581,
+    "dailyMinutesDown": {}
   }
 ]
