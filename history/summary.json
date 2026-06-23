@@ -4,15 +4,15 @@
     "url": "https://tuempleoideal.com.do",
     "icon": "https://icons.duckduckgo.com/ip3/tuempleoideal.com.do.ico",
     "slug": "tu-empleo-ideal",
-    "status": "down",
+    "status": "up",
     "uptime": "39.84%",
     "uptimeDay": "96.13%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "99.64%",
+    "uptimeWeek": "98.42%",
+    "uptimeMonth": "99.54%",
     "uptimeYear": "42.27%",
     "time": 259,
-    "timeDay": 365,
-    "timeWeek": 344,
+    "timeDay": 374,
+    "timeWeek": 346,
     "timeMonth": 411,
     "timeYear": 259,
     "dailyMinutesDown": {
@@ -234,7 +234,7 @@
       "2026-05-24": 21,
       "2026-05-26": 18,
       "2026-06-22": 116,
-      "2026-06-23": 0
+      "2026-06-23": 43
     }
   },
   {
@@ -266,11 +266,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.legalsuite.com.do.ico",
     "slug": "legal-suite-app",
     "status": "up",
-    "uptime": "50.82%",
+    "uptime": "50.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "50.82%",
+    "uptimeYear": "50.81%",
     "time": 427,
     "timeDay": 365,
     "timeWeek": 478,
@@ -279,7 +279,7 @@
     "dailyMinutesDown": {
       "2026-01-30": 17,
       "2026-02-04": 18,
-      "2026-06-23": 818,
+      "2026-06-23": 862,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
       "2026-06-20": 1440,
@@ -372,7 +372,7 @@
     "time": 435,
     "timeDay": 370,
     "timeWeek": 513,
-    "timeMonth": 455,
+    "timeMonth": 456,
     "timeYear": 435,
     "dailyMinutesDown": {
       "2026-01-30": 16,
@@ -394,7 +394,7 @@
     "time": 598,
     "timeDay": 829,
     "timeWeek": 868,
-    "timeMonth": 1009,
+    "timeMonth": 1010,
     "timeYear": 598,
     "dailyMinutesDown": {
       "2026-01-30": 16,
