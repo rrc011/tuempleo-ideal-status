@@ -4,16 +4,16 @@
     "url": "https://tuempleoideal.com.do",
     "icon": "https://icons.duckduckgo.com/ip3/tuempleoideal.com.do.ico",
     "slug": "tu-empleo-ideal",
-    "status": "down",
+    "status": "up",
     "uptime": "44.45%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "92.68%",
+    "uptimeWeek": "98.95%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "74.41%",
     "time": 332,
-    "timeDay": 1549,
+    "timeDay": 1520,
     "timeWeek": 743,
-    "timeMonth": 527,
+    "timeMonth": 525,
     "timeYear": 333,
     "dailyMinutesDown": {
       "2026-01-20": 173,
@@ -118,7 +118,7 @@
       "2026-05-26": 18,
       "2026-06-22": 116,
       "2026-06-23": 43,
-      "2026-10-18": 2
+      "2026-10-18": 105
     }
   },
   {
@@ -126,16 +126,16 @@
     "url": "https://legalsuite.com.do",
     "icon": "https://icons.duckduckgo.com/ip3/legalsuite.com.do.ico",
     "slug": "legal-suite-landing",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.87%",
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "92.71%",
+    "uptimeWeek": "98.96%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.85%",
     "time": 427,
-    "timeDay": 407,
-    "timeWeek": 402,
-    "timeMonth": 362,
+    "timeDay": 402,
+    "timeWeek": 405,
+    "timeMonth": 360,
     "timeYear": 427,
     "dailyMinutesDown": {
       "2026-01-20": 14,
@@ -143,7 +143,7 @@
       "2026-02-04": 405,
       "2026-04-08": 36,
       "2026-06-29": 16,
-      "2026-10-18": 4
+      "2026-10-18": 105
     }
   },
   {
@@ -151,16 +151,16 @@
     "url": "https://app.legalsuite.com.do",
     "icon": "https://icons.duckduckgo.com/ip3/app.legalsuite.com.do.ico",
     "slug": "legal-suite-app",
-    "status": "down",
-    "uptime": "69.71%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "69.71%",
+    "status": "up",
+    "uptime": "69.70%",
+    "uptimeDay": "92.76%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "69.70%",
     "time": 416,
-    "timeDay": 1295,
-    "timeWeek": 722,
-    "timeMonth": 481,
+    "timeDay": 1270,
+    "timeWeek": 720,
+    "timeMonth": 480,
     "timeYear": 416,
     "dailyMinutesDown": {
       "2026-01-30": 17,
@@ -248,7 +248,7 @@
       "2026-04-10": 1440,
       "2026-04-09": 1440,
       "2026-04-08": 541,
-      "2026-10-18": 4
+      "2026-10-18": 104
     }
   },
   {
@@ -256,23 +256,23 @@
     "url": "https://facturasuite.com.do",
     "icon": "https://icons.duckduckgo.com/ip3/facturasuite.com.do.ico",
     "slug": "factura-suite-landing",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.96%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "92.81%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.94%",
     "time": 419,
-    "timeDay": 740,
-    "timeWeek": 511,
-    "timeMonth": 402,
+    "timeDay": 732,
+    "timeWeek": 509,
+    "timeMonth": 399,
     "timeYear": 419,
     "dailyMinutesDown": {
       "2026-01-30": 16,
       "2026-02-04": 33,
       "2026-04-20": 39,
       "2026-06-29": 49,
-      "2026-10-18": 4
+      "2026-10-18": 104
     }
   },
   {
@@ -280,22 +280,22 @@
     "url": "https://app.facturasuite.com.do",
     "icon": "https://icons.duckduckgo.com/ip3/app.facturasuite.com.do.ico",
     "slug": "factura-suite-app",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.97%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "92.83%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.94%",
     "time": 621,
-    "timeDay": 1297,
-    "timeWeek": 991,
-    "timeMonth": 832,
+    "timeDay": 1281,
+    "timeWeek": 995,
+    "timeMonth": 830,
     "timeYear": 621,
     "dailyMinutesDown": {
       "2026-01-30": 16,
       "2026-02-04": 73,
       "2026-06-29": 35,
-      "2026-10-18": 6
+      "2026-10-18": 103
     }
   }
 ]
